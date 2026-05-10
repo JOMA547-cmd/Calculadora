@@ -46,7 +46,7 @@ public class CalculadoraGit {
                 System.out.println("Operacion invalida.");
                 return;
         }
-        
+        //cambio desde GitHub
         System.out.println("Resultado: " + result);
     }
 }
